@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\University\Ізгої\2 курс\1 семестр 2025-2026\Зимова практика 2026\sho2\sho2\main.cpp(91,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  sho2.vcxproj -> D:\University\Ізгої\2 курс\1 семестр 2025-2026\Зимова практика 2026\sho2\x64\Debug\sho2.exe
